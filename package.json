@@ -2,7 +2,7 @@
   "name": "fswd-todolist",
   "private": true,
   "engines": {
-    "node": "^20.9"
+    "node": "^18.19"
   },
   "dependencies": {
     "@babel/plugin-proposal-private-methods": "^7.18.6",
