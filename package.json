@@ -2,7 +2,7 @@
   "name": "fswd-todolist",
   "private": true,
   "engines": {
-    "node": "^16.17"
+    "node": "^20.9"
   },
   "dependencies": {
     "@rails/actioncable": "^6.0.0",
@@ -19,9 +19,7 @@
   "devDependencies": {
     "webpack-dev-server": "^3"
   },
-
   "scripts": {
     "webpack": "webpack"
   }
-  
 }
